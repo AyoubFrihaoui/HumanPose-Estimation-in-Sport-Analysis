@@ -1,3 +1,23 @@
-Data/
-Data/Pictures/
-Data/Videos/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Regenerable runtime output
+outputs/velocity.json
+
+# Local, non-versioned datasets
+data/raw/
+data/processed/
