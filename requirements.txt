@@ -1,0 +1,11 @@
+# Versions observed in the original 2024 notebook environment where available.
+numpy==1.24.3
+opencv-python==4.8.1.78
+pandas==2.0.3
+matplotlib==3.7.2
+ultralytics==8.2.10
+sahi==0.11.16
+mediapipe>=0.10,<0.11
+statsmodels>=0.14,<0.15
+pykalman>=0.9.7,<0.11
+

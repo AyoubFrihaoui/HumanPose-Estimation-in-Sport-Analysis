@@ -1,0 +1,2 @@
+"""Athlete tracking primitives."""
+
